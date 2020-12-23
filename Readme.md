@@ -1,4 +1,4 @@
-## One non-geophysical paper per day
+## One non-geophysical paper a day
 
 Paper notes
 
